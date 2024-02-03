@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bence</h1>
-<h3 align="center">A passionate full stack developer from Munich</h3>
+<h3 align="center">Versatile Web Developer & IT Enthusiast from Munich</h3>
 
 - 🔭 I’m currently working on **MIX\MATE**
 
 - 🌱 I’m currently learning **JavaScript, Ruby on Rails, SQL**
 
-- 📫 How to reach me **bencekissde@gmail.com**
+- 📫 How to reach me: **bencekisstech@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bencekisstech/](https://www.linkedin.com/in/bencekisstech/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/bencekisstech/](https://www.linkedin.com/in/bencekisstech/)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact: **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
