@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Ruby on Rails, SQL**
 
-- 📫 How to reach me: **bencekisstech@outlook.com**
+- 📫 How to reach me: **bencekissde@gmail.com**
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/bencekisstech/](https://www.linkedin.com/in/bencekisstech/)
 
